@@ -1,0 +1,15 @@
+{
+  "domain": "magyar_uzemanyag",
+  "name": "Magyar üzemanyagárak",
+  "config_flow": true,
+  "documentation": "https://github.com/fantnhu/magyar_uzemanyag",
+  "issue_tracker": "https://github.com/fantnhu/magyar_uzemanyag/issues",
+  "requirements": ["aiohttp"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@fantnhu"],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
